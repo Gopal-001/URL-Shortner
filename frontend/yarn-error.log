@@ -1,0 +1,31 @@
+Arguments: 
+  /opt/homebrew/Cellar/node/23.11.0/bin/node /opt/homebrew/Cellar/yarn/1.22.19/libexec/bin/yarn.js init -y
+
+PATH: 
+  /Users/sameermishra/.rvm/gems/ruby-2.7.5/bin:/Users/sameermishra/.rvm/gems/ruby-2.7.5@global/bin:/Users/sameermishra/.rvm/rubies/ruby-2.7.5/bin:/Users/sameermishra/.codeium/windsurf/bin:/Users/sameermishra/Downloads/google-cloud-sdk/bin:/Users/sameermishra/.jenv/shims:/Users/sameermishra/.jenv/bin:/opt/homebrew/bin:/Library/PostgreSQL/16/bin:/Users/sameermishra/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.13/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Users/sameermishra/.rvm/gems/ruby-2.7.5/bin:/Users/sameermishra/.rvm/gems/ruby-2.7.5@global/bin:/Users/sameermishra/.rvm/rubies/ruby-2.7.5/bin:/Users/sameermishra/.codeium/windsurf/bin:/opt/anaconda3/bin:/opt/anaconda3/condabin:/Users/sameermishra/Downloads/google-cloud-sdk/bin:/Users/sameermishra/.jenv/shims:/Users/sameermishra/.jenv/bin:/Library/PostgreSQL/16/bin:/Users/sameermishra/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.13/bin:/Users/sameermishra/Library/Application Support/JetBrains/Toolbox/scripts:/opt/homebrew/opt/llvm/lib:/opt/homebrew/opt/llvm/include:/Users/sameermishra/Library/Android/sdk/emulator:/Users/sameermishra/.rvm/bin:/usr/local/bin/aws:/usr/local/bin/aws_completer:/Users/sameermishra/go/bin:/usr/local/share/dotnet:/Users/sameermishra/.windsurf/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/scripts/noConfigScripts:/Users/sameermishra/Library/Application Support/JetBrains/Toolbox/scripts:/opt/homebrew/bin:/opt/homebrew/opt/llvm/lib:/opt/homebrew/opt/llvm/include:/Users/sameermishra/Library/Android/sdk/emulator:/Users/sameermishra/Library/Android/sdk/platform-tools:/Users/sameermishra/.rvm/bin:/usr/local/bin/aws:/usr/local/bin/aws_completer:/Users/sameermishra/go/bin:/usr/local/share/dotnet
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  23.11.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/sameermishra/Learn/URL-Shortner/frontend/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /opt/homebrew/Cellar/yarn/1.22.19/libexec/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/opt/homebrew/Cellar/yarn/1.22.19/libexec/lib/cli.js:310:30)
+      at /opt/homebrew/Cellar/yarn/1.22.19/libexec/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
