@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "properties": {
+      "short_code": { "type": "keyword" },
+      "original_url": { "type": "text" },
+      "created_at": { "type": "date" },
+      "clicks": { "type": "integer" }
+    }
+  }
+}
