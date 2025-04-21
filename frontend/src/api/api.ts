@@ -36,6 +36,7 @@ const apiClient = axios.create({
 // API functions
 export const shortenURL = async (data: ShortenURLRequest): Promise<ShortenURLResponse> => {
   const response = await apiClient.post<ShortenURLResponse>('/shorten', data);
+  
   return response.data;
 };
 
